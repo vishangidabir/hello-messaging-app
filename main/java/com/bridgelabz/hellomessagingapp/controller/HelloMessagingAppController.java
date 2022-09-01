@@ -10,6 +10,6 @@ public class HelloMessagingAppController {
 
     @GetMapping("/getdata")
     public String hello() {
-        return "Hello Bridgelabz";
+        return "Hello Bridgelabz!";
     }
 }
